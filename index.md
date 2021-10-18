@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Loreen Henry"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. I am leaning about data visualization.
+
